@@ -24,9 +24,25 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/arrow.css",
+              "src/assets/css/fixed.css",
+              "src/assets/css/lightbox.css",
+              "src/assets/css/owl.carousel.css",
+              "src/assets/css/owl.theme.default.css",
+              "src/assets/css/waypoints.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/contact.js",
+              "src/assets/js/custom.js",
+              "src/assets/js/jquery.counterup.js",
+              "src/assets/js/jquery.waypoints.min.js",
+              "src/assets/js/lightbox.js",
+              "src/assets/js/owl.carousel.js",
+              "src/assets/js/validator.js",
+              "src/assets/js/waypoints.js"
+            ]
           },
           "configurations": {
             "production": {
